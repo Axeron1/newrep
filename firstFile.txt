@@ -1,1 +1,6 @@
 some text in the first file
+
+>>>>
+
+more lines
+..........
