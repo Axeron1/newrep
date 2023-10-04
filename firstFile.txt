@@ -1,6 +1,10 @@
 some text in the first file
 
 >>>>
+changes in the first file
+...
+
+
 
 
 
