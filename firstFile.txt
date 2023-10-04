@@ -1,4 +1,5 @@
-99999999999
+123
+>>>>>>> branch1
 some text in the first file
 
 >>>>
