@@ -2,5 +2,9 @@ some text in the first file
 
 >>>>
 
+
+
+master branch changes
+
 more lines
 ..........
